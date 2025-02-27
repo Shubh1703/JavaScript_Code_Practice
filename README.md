@@ -11,8 +11,11 @@ What's Inside?
 3. Hands-on Coding with Codespaces – You can use GitHub Codespaces to run and edit the code instantly without any local setup.
 
 How You Can Benefit
+
 4. Improve Your JavaScript Skills – Learn fundamental concepts with real-world coding problems.
+
 5. Practice for Coding Interviews – Strengthen problem-solving skills with LeetCode-style questions.
+
 6. Instant Setup – No need to configure anything locally—just open the repository in GitHub Codespaces and start coding!
 
 Feel free to explore, contribute, and share your insights. Let's learn and grow together! 💡🔥
